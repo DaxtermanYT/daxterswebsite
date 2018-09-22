@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Daxter's Website
+### This a Website is still in construction.
 
-You can use the [editor on GitHub](https://github.com/DaxtermanYT/daxterswebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this website a lot of things will be here from artwork to game servers to actual important news related to everything!! :3
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://marckray.files.wordpress.com/2014/05/f-oxjqx4yejsj_7l7qmm_l-vllkcqgdwmwhtgalqrns-1.gif?w=538)
+
+
+[Steam Group](https://steamcommunity.com/groups/daxtercommunity)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+                                          This is a good test.
+                                          
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## What Are We?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaxtermanYT/daxterswebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We are something
+  
