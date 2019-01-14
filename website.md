@@ -1,4 +1,5 @@
-# Welcome to Daxter's Website
+<html>
+<body># Welcome to Daxter's Website
 ### This a Website is still in construction.
 
 
@@ -20,4 +21,5 @@ In this website a lot of things will be here from artwork to game servers to act
 ## What Are We?
 
 We are something
-  
+ </body>
+</html>
